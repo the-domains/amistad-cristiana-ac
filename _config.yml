@@ -1,14 +1,23 @@
-layout_spectrum: 0.4689480869565159
-typography_spectrum: 0.06291721621528268
+layout_spectrum: 0.3552556501235813
+typography_spectrum: 0.5051805961411446
 color:
-  brandStrength: 0.4321466132532805
-  lightness: 0.5766102243214846
-  saturation: 0.20104972715489566
-  rhythmicContrast: 0.8115015325602144
+  brandStrength: 0.8745386796072125
+  lightness: 0.8020057929679751
+  saturation: 0.3358094124123454
+  rhythmicContrast: 0.6977307952474803
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+author:
+  name: Antonio Jurado
+  email: antonio.jurado@amistadcristianamexico.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/39902677-7705-46c0-a762-7811829e6c04.png
 name: Amistad Cristiana A.C.
+title: 'Juan 17:3'
+description: >-
+  Que te conozcan a ti el único Dios Verdadero y a Jesucristo a quien has
+  envíado.
