@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T18:39:02.301Z'
+datePublished: '2016-08-19T18:48:00.627Z'
 sourcePath: _posts/2016-04-15-atmo-sfera-platterless-turntable-spins-vinyl-in-the-air.md
 inFeed: true
 isBasedOnUrl: >-
@@ -22,7 +22,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-19T18:39:01.798Z'
+dateModified: '2016-08-19T18:48:00.211Z'
 title: Atmo Sfera Platterless Turntable Spins Vinyl in the Air
 app_links: []
 publisher:
@@ -42,4 +42,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4e0e9422dc8b38aa4896d911f5d202f6/croprotate.jpg?cropheight=1162&amp;cropwidth=1503&amp;degrees=0&amp;input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F9fb337561fce986fe123f7a74eb6e8ea6a39834a.jpg&amp;x=0&amp;y=0" /><h1>Atmo Sfera Platterless Turntable Spins Vinyl in the Air</h1><p>Chicago's Gramovox already defied gravity with their vertical Floating Record Player, and now Italian start-up Audio Deva offers their own "upside-down" take on a turntable. It eschews the basic design that has "remained the same for about a century."</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb2e99cc-7b7f-47cc-8699-6ac0d96df8e1.png)
